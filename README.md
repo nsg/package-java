@@ -9,4 +9,4 @@ Make deb and rpm's of oracles java and unpack to `/opt`, this packages do not up
 
 ## How to build the packages?
 
-Just type `make deb-jdk7` do build a deb for jdk7. You can also build rpm's.
+Just type `cd jdk7` followed by `make deb` do build a deb for jdk7. You can also build rpm's.
